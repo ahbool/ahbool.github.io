@@ -9,12 +9,12 @@ npm全称Node Package Manager，是node.js的模块依赖管理工具。由于np
 
 ### 淘宝npm镜像
 
-搜索地址：http://npm.taobao.org/
+搜索地址：http://npm.taobao.org/ 
 registry地址：http://registry.npm.taobao.org/
 
 ### cnpmjs镜像
 
-搜索地址：http://cnpmjs.org/
+搜索地址：http://cnpmjs.org/ 
 registry地址：http://r.cnpmjs.org/
 
 
