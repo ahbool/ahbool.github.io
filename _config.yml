@@ -1,0 +1,8 @@
+title: 野菠菜
+description: 前端开发
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
